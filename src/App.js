@@ -1,10 +1,10 @@
 import LoginSignup from './LoginSignup/LoginSignup';
-
+import User from './pages/User';
 
 function App() {
   return (
     <div>
-      <LoginSignup/>
+      <User/>
     </div>
   );
 }
